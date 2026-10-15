@@ -16,4 +16,4 @@ https://gavhanedattatray831-cmd.github.io/Car/
 - style.css - styling
 
 ## Author
-Dattatray Gavhane
+Omsai Gavhane
